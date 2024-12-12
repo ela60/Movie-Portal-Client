@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "poster": "https://i.ibb.co.com/dmQ9QRQ/p-blackwidow-21043-v2-6d1b73b8.jpg",
+      "title": "Black Window",
+      "genre": ["Action", "Adventure"],
+      "duration": 120,
+      "releaseYear": 2021,
+      "rating": 8.5,
+      "summary": "An action-packed adventure movie."
+    },
+    {
+      "id": 2,
+      "poster": "https://i.ibb.co.com/q0jZ2Tn/AAAAQZwth86py1-GYa-QAHPOg58-7-IOE4a-UT0-X6t-QAc-Anj-F1-Xb-KG8jr3-Dyhvs63-Eju0q-Xt-By-FTMr-L2b7-a6v-E.jpg",
+      "title": " Like Phir Aayi Hasseen Dillruba",
+      "genre": ["Drama", "Romance"],
+      "duration": 115,
+      "releaseYear": 2020,
+      "rating": 7.8,
+      "summary": "A heartfelt romantic drama."
+    },
+    {
+      "id": 3,
+      "poster": "https://i.ibb.co.com/C7k2RT9/600-Bill-Ted.jpg",
+      "title": "Ranked by Tomatometer",
+      "genre": ["Comedy"],
+      "duration": 95,
+      "releaseYear": 2019,
+      "rating": 8.2,
+      "summary": "A hilarious comedy movie."
+    },
+    {
+      "id": 4,
+      "poster": "https://i.ibb.co.com/PYMZybw/hq720.jpg",
+      "title": "THE EVIL DOWN THE STREET",
+      "genre": ["Horror", "Thriller"],
+      "duration": 105,
+      "releaseYear": 2022,
+      "rating": 8.7,
+      "summary": "A spine-chilling horror thriller."
+    },
+    {
+      "id": 5,
+      "poster": "https://i.ibb.co.com/Drkt72n/intro-1701990358.jpg",
+      "title": "Crater",
+      "genre": ["Sci-Fi", "Action"],
+      "duration": 130,
+      "releaseYear": 2023,
+      "rating": 9.0,
+      "summary": "A futuristic sci-fi adventure."
+    },
+    {
+      "id": 6,
+      "poster": "https://i.ibb.co.com/b1gwPGv/hq720-1.jpg",
+      "title": "Last Minute",
+      "genre": ["Documentary"],
+      "duration": 75,
+      "releaseYear": 2021,
+      "rating": 8.4,
+      "summary": "An inspiring documentary."
+    }
+  ]
+  

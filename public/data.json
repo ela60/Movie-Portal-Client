@@ -1,0 +1,48 @@
+[
+    {
+      "poster": "https://via.placeholder.com/300x450?text=Movie+Poster+1",
+      "title": "The Grand Adventure",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "duration": 135,
+      "releaseYear": 2022,
+      "rating": 8.2,
+      "summary": "A young hero embarks on an epic journey to save their homeland from an ancient evil."
+    },
+    {
+      "poster": "https://via.placeholder.com/300x450?text=Movie+Poster+2",
+      "title": "Love in the Rain",
+      "genre": ["Romance", "Drama"],
+      "duration": 110,
+      "releaseYear": 2021,
+      "rating": 7.5,
+      "summary": "Two strangers find solace and love during a serendipitous encounter on a rainy evening."
+    },
+    {
+      "poster": "https://via.placeholder.com/300x450?text=Movie+Poster+3",
+      "title": "Mystery of the Lost Artifact",
+      "genre": ["Mystery", "Thriller"],
+      "duration": 140,
+      "releaseYear": 2023,
+      "rating": 8.8,
+      "summary": "A brilliant archaeologist races against time to uncover the truth behind a lost artifact."
+    },
+    {
+      "poster": "https://via.placeholder.com/300x450?text=Movie+Poster+4",
+      "title": "The Animated Chronicles",
+      "genre": ["Animation", "Family", "Adventure"],
+      "duration": 95,
+      "releaseYear": 2020,
+      "rating": 7.9,
+      "summary": "An unlikely group of friends come together to embark on an unforgettable animated journey."
+    },
+    {
+      "poster": "https://via.placeholder.com/300x450?text=Movie+Poster+5",
+      "title": "Horror in the Woods",
+      "genre": ["Horror", "Thriller"],
+      "duration": 120,
+      "releaseYear": 2019,
+      "rating": 6.8,
+      "summary": "A group of friends face their deepest fears while trapped in a haunted forest."
+    }
+  ]
+  

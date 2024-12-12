@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Avatar 2",
+      "poster": "https://i.ibb.co.com/x8zTPLW/images-1.jpg",
+      "releaseYear": 2023,
+      "summary": "Jake Sully and Neytiri have formed a family and are doing everything to stay together. But they must leave their home and explore the regions of Pandora."
+    },
+    {
+      "id": 2,
+      "title": "Spider-Man: No Way Home",
+      "poster": "https://i.ibb.co.com/1ZZTn87/image.jpg",
+      "releaseYear": 2021,
+      "summary": "Peter Parker’s life is turned upside down when the world discovers that he is Spider-Man."
+    },
+    {
+      "id": 3,
+      "title": "Jurassic World: Dominion",
+      "poster": "https://i.ibb.co.com/gzCsQmH/images.jpg",
+      "releaseYear": 2022,
+      "summary": "The future of mankind is at stake as dinosaurs now live freely across the planet."
+    },
+    {
+      "id": 3,
+      "title": "JURASSIC WORLD 3",
+      "poster": "https://i.ibb.co.com/VHzz2Kj/maxresdefault.jpg",
+      "releaseYear": 2022,
+      "summary": "The future of mankind is at stake as dinosaurs now live freely across the planet."
+    }
+    
+  ]
+  
