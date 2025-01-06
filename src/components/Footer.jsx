@@ -1,8 +1,12 @@
 import React from "react";
 import logo from "../assets/movie-7328179_640.webp";
 import moment from "moment";
+import { Link } from "react-router-dom"; // Import Link for navigation
 
 const Footer = () => {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
   return (
     <footer className="bg-gradient-to-r from-gray-800 via-gray-900 to-black text-white py-10">
       <div className="container mx-auto px-4">
@@ -70,16 +74,31 @@ const Footer = () => {
         {/* Divider */}
         <hr className="my-8 border-gray-600" />
 
-        {/* Bottom Section */}
-        <div className="text-center text-sm">
-          <h4 className="text-blue-500 underline">
-            {moment().format("MMMM Do YYYY, h:mm:ss a")}
-          </h4>
-          <p className="mt-2 text-gray-400">
-            &copy; {new Date().getFullYear()}{" "}
-            <span className="font-semibold text-blue-400">MovieVerse</span>. All
-            Rights Reserved.
-          </p>
+        {/* Links Section */}
+        <div className="text-center">
+          <div className="space-x-6 mb-4">
+            <Link to="/"onClick={scrollToTop} className="text-yellow-500 hover:underline">
+              Home
+            </Link>
+            <Link to="/aboutus" className="text-yellow-500 hover:underline">
+              About Us
+            </Link>
+            <Link to="/allmovies" className="text-yellow-500 hover:underline">
+              All Movies
+            </Link>
+          </div>
+
+          {/* Bottom Section */}
+          <div className="text-center text-sm">
+            <h4 className="text-blue-500 underline">
+              {moment().format("MMMM Do YYYY, h:mm:ss a")}
+            </h4>
+            <p className="mt-2 text-gray-400">
+              &copy; {new Date().getFullYear()}{" "}
+              <span className="font-semibold text-blue-400">MovieVerse</span>. All
+              Rights Reserved.
+            </p>
+          </div>
         </div>
       </div>
     </footer>

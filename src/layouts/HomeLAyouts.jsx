@@ -10,6 +10,7 @@ import { Outlet } from 'react-router-dom';
 import FeaterSection from '../FeatureSection/FeaterSection';
 import UniqueThemeSection from '../FeatureSection/UniqueThemeSection';
 import Navbar from '../components/Navbar';
+import SubscriptionPlans from '../components/SubscriptionPlans';
 
 const HomeLayouts = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -48,6 +49,10 @@ const HomeLayouts = () => {
       <main>
         <Outlet />
       </main>
+
+      <section className='py-6'>
+         <SubscriptionPlans />
+      </section>
 
       <section>
         <TrendingMovies />
