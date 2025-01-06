@@ -109,8 +109,15 @@ const AddMoviePage = () => {
       <Navbar/>
       <div className="lg:w-3/4 mx-auto ">
       <ToastContainer />
-      <div className="text-center p-10">
-          <h1 className="text-5xl font-bold">Add Movie!</h1>
+      <div className="text-center p-2 mb-12">
+      <h1
+          className="text-4xl font-bold text-yellow-500 text-center mb-8 py-20 bg-cover bg-center"
+          style={{
+            backgroundImage: 'url("https://img.freepik.com/free-photo/movie-background-collage_23-2149876013.jpg")',
+          }}
+        >
+           Add Movies
+        </h1>
           <p className="text-center text-blue-400">
         Logged in as: <span className="font-medium text-blue-400">{userEmail}</span>
       </p>

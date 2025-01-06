@@ -5,7 +5,7 @@ const AllMovieCard = ({ movie }) => {
   const { moviePoster, movieTitle, genre, duration, releaseYear, rating, _id } = movie;
 
   return (
-    <div className="card bg-base-100 shadow-md">
+    <div className="card bg-base-300 shadow-md">
    
       <img src={moviePoster} alt={movieTitle} className="w-full h-48 object-cover" />
 
@@ -19,7 +19,7 @@ const AllMovieCard = ({ movie }) => {
 
         
         <div className="mt-4">
-          <Link to={`/movies/${_id}`} className="btn btn-primary btn-sm">
+          <Link to={`/movies/${_id}`} className="btn bg-yellow-500 btn-sm">
             See Details
           </Link>
         </div>

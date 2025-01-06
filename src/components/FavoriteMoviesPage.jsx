@@ -70,8 +70,15 @@ const FavoriteMovies = () => {
   return (
       <div>
           <Navbar/>
-          <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">Your Favorite Movies</h1>
+          <div className="container mx-auto ">
+          <h1
+          className="text-4xl font-bold text-yellow-500 text-center mb-8 py-20 bg-cover bg-center"
+          style={{
+            backgroundImage: 'url("https://img.freepik.com/free-photo/movie-background-collage_23-2149876005.jpg")',
+          }}
+        >
+          Favorites Movies
+        </h1>
       {favorites.length === 0 ? (
         <p className="text-gray-500">You have no favorite movies yet.</p>
       ) : (
