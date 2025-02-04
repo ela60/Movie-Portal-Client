@@ -50,7 +50,7 @@ _A user-friendly platform for discovering, exploring, and managing your favorite
 
 
 📝 Step-by-Step Guide to Run Locally
-- git clone https://github.com/yourusername/movie-portal.git
+- git clone https://github.com/ela60/movie-portal.git
 - cd movie-portal
 - npm install
 
