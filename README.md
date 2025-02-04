@@ -41,6 +41,22 @@ _A user-friendly platform for discovering, exploring, and managing your favorite
 
 ---
 
-## ⚡ **Challenge issue which i faced**
- I faced some problem to show details movies page and fulfill given requirements.Alhamdullilah finally i done it.
+
+## 📦 **Dependencies Used**
+- react: "^18.0.0"
+- react-router-dom: "^6.0.0"
+- tailwindcss: "^2.2.0"
+- react-toastify: "^7.0.0"
+
+
+📝 Step-by-Step Guide to Run Locally
+- git clone https://github.com/yourusername/movie-portal.git
+- cd movie-portal
+- npm install
+
+
+## ⚡ Challenges Faced
+One of the major challenges I faced was correctly displaying the movie details page and fulfilling all of the given requirements. But after several attempts and testing, I successfully implemented all the features and completed the project.
+
+
 
